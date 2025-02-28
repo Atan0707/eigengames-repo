@@ -1,5 +1,5 @@
 # 🚀 YieldAVS: AI-Powered Yield Optimization with AVS Security
-> Your AI-powered yield optimization companion! Find the best DeFi yields through natural conversations, backed by secure AVS data validation on AVS.
+> Your AI-powered yield optimization companion! Find the best DeFi yields through natural conversations, backed by secure AVS data validation on Othentic.
 
 ## 🌟 Features
 
