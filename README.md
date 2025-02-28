@@ -1,9 +1,4 @@
 # 🚀 YieldAVS: AI-Powered Yield Optimization with AVS Security
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/your_bot_name)
-[![Built with AVS](https://img.shields.io/badge/Built%20with-AVS-purple.svg)](https://arbitrum.io/)
-
 > Your AI-powered yield optimization companion! Find the best DeFi yields through natural conversations, backed by secure AVS data validation on AVS.
 
 ## 🌟 Features
