@@ -1,3 +1,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/goodbyeO0/eigen-games-hackathon
+[submodule "eigengame-fe"]
+	path = eigengame-fe
+	url = https://github.com/Atan0707/eigengame-fe.git
+[submodule "eigengames-othentic"]
+	path = eigengames-othentic
+	url = https://github.com/Atan0707/eigengames-othentic.git
